@@ -1,0 +1,35 @@
+body{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.container-fluid{
+	border: 2px solid black;}
+
+
+.row{
+	
+
+}
+
+.healthy-img{
+	background-image: url("https://plus.unsplash.com/premium_photo-1664640733984-cbee33873783?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80");
+	height: 750px;
+background-size:cover;
+	background-repeat: no-repeat;
+}
+.salad-img{
+	height: 150px;
+	width: 150px;}
+
+.information{
+	background-color: yellow;
+	font-size: 30px;
+}
+
+.discount{
+	font-size: 60px;
+}
+
+.btn{
+
+}
